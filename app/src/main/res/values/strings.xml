@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="check2">"<u>VK.COM/VANGELNUM</u>"</string>
+    <string name="check3">"<u>VANGELNUM@GMAIL.COM</u>"</string>
+    <string name="check5">"Все звуки были взяты со стримов моего любимого ютуб и тикток стримера"</string>
+    <string name="check6">"<u>YOUTUBE.COM/ZXCURSED</u>"</string>
+    <string name="check7">"<u>TIKTOK.COM/@CONVULSIVE_SEIZURES</u>"</string>
+    <string name="author">Больше интересных рецептов</string>
+    <string name="check">"При возникновении ошибки, если хотите что-то увидеть в приложении"</string>
+    <string name="contact">Контакты</string>
+    <array name="image">
+        <item>@drawable/blue_button</item>
+
+        <item>@drawable/purple_button</item>
+        <item>@drawable/pink_button</item>
+        <item>@drawable/green_buton</item>
+        <item>@drawable/orange_button</item>
+    </array>
+</resources>
